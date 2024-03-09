@@ -22,7 +22,7 @@
 
 <img width="1432" alt="watching_trailers" src="https://github.com/shreya-khushii/cineScope/assets/162702847/e8ae4017-0742-401c-b3af-0d6f498ff5d9">
 
-### HomePage-Navigatio
+### HomePage-Navigation
 
 <img width="1426" alt="easy_home_page_navigations" src="https://github.com/shreya-khushii/cineScope/assets/162702847/72723f39-f317-45bc-adb6-45935be61f0b">
 ns
