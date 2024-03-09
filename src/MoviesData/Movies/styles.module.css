@@ -1,0 +1,41 @@
+.container {
+    position: relative;
+    width: 100%;
+    margin: -8px;
+}
+
+.header {
+    position: fixed;
+    background: #fff;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    box-shadow: 0px 0px 8px 0px rgba(98, 127, 172, 0.2);
+}
+.input {
+    background: #e0e0e0;
+    border-radius: 4px;
+    min-width: 300px;
+    height: 30px;
+    margin-right: 4px;
+    border: none;
+}
+.home {
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.input_field {
+    position: relative;
+}
+.suffix {
+    position: absolute;
+    right: 12px;
+    top: 2px;
+}
+.input_field input[type="search"] {
+    padding-left: 8px;
+}
